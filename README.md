@@ -10,7 +10,7 @@ It contains all the files to reproduce our decider training and evaluate it, as 
 ### Preprocessing
 Audio and images should be preprocessed following the CAV-MAE repository.
 A json file containing the AudioSet file paths should be formated as CAV-MAE repository too.
-Download the model weights (backbone and MLP) for inference and put them in ./expe/DALI_OT_ATT, or the csv file containing the subset of AudioSet that we used for the ditribution alignment training [there](https://zenodo.org/records/13941386?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjVjZTI2ZTkwLWNkOTEtNDJjNS1iNjUyLTE2YTEzYjFlMzBmOCIsImRhdGEiOnt9LCJyYW5kb20iOiJiMTgzZmRhOWZlNzYxMTJlNzI3YmFjMWFhZDYxOWExNyJ9.DDHjUSCNdZYpZWrEnVTGKEvX0w2yfJfYhnYmacZj_96IlCMtHPDbamBkAnRXbaNFLCpAPVIsfUHS__kftsidYQ)
+Download the model weights (backbone and MLP) for inference and put them in ./expe/DALI_OT_ATT, or the csv file containing the subset of AudioSet that we used for the ditribution alignment training [there](https://zenodo.org/records/14224316?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImFmM2FjOGMyLWZjNzMtNDc5My04ZjgwLTk0Yzc0ODY4YmI0YSIsImRhdGEiOnt9LCJyYW5kb20iOiI3ZDVlN2FkNWI3OWNjYjFkYjY4ZjViNjQ2ODhlMDA3MSJ9.UBydjToHd-NLkzcdOrmi0XtL7b36MSofZNXUG9OfsjrPo0WtbH4P5n5b38q_tJhlPmVMjB85kyOnulic2PGykg)
 
 ## Environment creation
 ```

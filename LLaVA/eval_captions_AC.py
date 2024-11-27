@@ -283,13 +283,6 @@ df = df[df['set']=='test']
 df=df.drop_duplicates(subset='caption')
 df = df.groupby(['file_id','file_path'])['caption'].agg(list).reset_index()
 
-with open('/home/ids/hmalard/ACTestBug2.txt') as f:
-    contents = f.readlines()
-
-bad = [string.replace('\n', '') for string in contents if string.strip()]
-id_bad = [bad[i].split('/')[-1].split('.')[0] for i in range(len(bad))]
-df = df[~df.file_id.isin(id_bad)]
-
 captions = []
 ids = []
 

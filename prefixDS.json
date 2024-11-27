@@ -1,0 +1,258 @@
+[
+    {
+        "id": "AuMklNxE5cY",
+        "image": "/tsi/audiosig/audible/dcase/data/AudioSet_Frames_CAV/frame_5/AuMklNxE5cY.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe the sound that can be heard in this scene."
+            },
+            {
+                "from": "gpt",
+                "value": "An emergency vehicle driving by"
+            }
+        ],
+        "audio": "/tsi/audiosig/audible/dcase/data/AudioSet_Resampled//AuMklNxE5cY.wav",
+        "sim": 0.77309287
+    },
+    {
+        "id": "WKltonpNcR8",
+        "image": "/tsi/audiosig/audible/dcase/data/AudioSet_Frames_CAV/frame_5/WKltonpNcR8.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe the sound that can be heard in this scene."
+            },
+            {
+                "from": "gpt",
+                "value": "A man voice and gunshots"
+            }
+        ],
+        "audio": "/tsi/audiosig/audible/dcase/data/AudioSet_Resampled/WKltonpNcR8.wav",
+        "sim": 0.8204632
+    },
+    {
+        "id": "8fIylsR0Qy8",
+        "image": "/tsi/audiosig/audible/dcase/data/AudioSet_Frames_CAV/frame_5/8fIylsR0Qy8.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe the sound that can be heard in this scene."
+            },
+            {
+                "from": "gpt",
+                "value": "A person talking and guns shooting"
+            }
+        ],
+        "audio": "/tsi/audiosig/audible/dcase/data/AudioSet_Resampled/8fIylsR0Qy8.wav",
+        "sim": 0.78199285
+    },
+    {
+        "id": "I_fJ9kIpylI",
+        "image": "/tsi/audiosig/audible/dcase/data/AudioSet_Frames_CAV/frame_5/I_fJ9kIpylI.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe the sound that can be heard in this scene."
+            },
+            {
+                "from": "gpt",
+                "value": "Machine gun fire followed by man speaking"
+            }
+        ],
+        "audio": "/tsi/audiosig/audible/dcase/data/AudioSet_Resampled/I_fJ9kIpylI.wav",
+        "sim": 0.7541975
+    },
+    {
+        "id": "SDr8PAv2MIU",
+        "image": "/tsi/audiosig/audible/dcase/data/AudioSet_Frames_CAV/frame_5/SDr8PAv2MIU.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe the sound that can be heard in this scene."
+            },
+            {
+                "from": "gpt",
+                "value": "A fan whirs and then a person snores nearby"
+            }
+        ],
+        "audio": "/tsi/dcase/AudioCaps/audio/SDr8PAv2MIU.wav",
+        "sim": 0.52158725
+    },
+    {
+        "id": "-BZ6I5i_kW4",
+        "image": "/tsi/audiosig/audible/dcase/data/AudioSet_Frames_CAV/frame_5/-BZ6I5i_kW4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe the sound that can be heard in this scene."
+            },
+            {
+                "from": "gpt",
+                "value": "Prolonged toilet flushing"
+            }
+        ],
+        "audio": "/tsi/audiosig/audible/dcase/data/AudioSet_Resampled/-BZ6I5i_kW4.wav",
+        "sim": 0.7656573
+    },
+    {
+        "id": "vF9Ek88Rt2c",
+        "image": "/tsi/audiosig/audible/dcase/data/AudioSet_Frames_CAV/frame_5/vF9Ek88Rt2c.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe the sound that can be heard in this scene."
+            },
+            {
+                "from": "gpt",
+                "value": "Several gunshots followed by male speech and rustling"
+            }
+        ],
+        "audio": "/tsi/audiosig/audible/dcase/data/AudioSet_Resampled/vF9Ek88Rt2c.wav",
+        "sim": 0.8311039
+    },
+    {
+        "id": "CUcxOZjs414",
+        "image": "/tsi/audiosig/audible/dcase/data/AudioSet_Frames_CAV/frame_5/CUcxOZjs414.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe the sound that can be heard in this scene."
+            },
+            {
+                "from": "gpt",
+                "value": "A bell rings once."
+            }
+        ],
+        "audio": "/tsi/dcase/WavCaps/data/waveforms/AudioSet_SL_flac/YCUcxOZjs414.flac",
+        "sim": 0.593132
+    },
+    {
+        "id": "ywTvPBmXx0Q",
+        "image": "/tsi/audiosig/audible/dcase/data/AudioSet_Frames_CAV/frame_5/ywTvPBmXx0Q.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe the sound that can be heard in this scene."
+            },
+            {
+                "from": "gpt",
+                "value": "Humming and whooshing of a distant aircraft with wind blowing hard"
+            }
+        ],
+        "audio": "/tsi/audiosig/audible/dcase/data/AudioSet_Resampled/ywTvPBmXx0Q.wav",
+        "sim": 0.77175945
+    },
+    {
+        "id": "Sbb-Ssxiig4",
+        "image": "/tsi/audiosig/audible/dcase/data/AudioSet_Frames_CAV/frame_5/Sbb-Ssxiig4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe the sound that can be heard in this scene."
+            },
+            {
+                "from": "gpt",
+                "value": "Humming and vibrating followed by a flushing toilet"
+            }
+        ],
+        "audio": "/tsi/audiosig/audible/dcase/data/AudioSet_Resampled/Sbb-Ssxiig4.wav",
+        "sim": 0.78046334
+    },
+    {
+        "id": "-u280mVOhOQ",
+        "image": "/tsi/audiosig/audible/dcase/data/AudioSet_Frames_CAV/frame_5/-u280mVOhOQ.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe the sound that can be heard in this scene."
+            },
+            {
+                "from": "gpt",
+                "value": "Tinkering and a gun going off"
+            }
+        ],
+        "audio": "/tsi/audiosig/audible/dcase/data/AudioSet_Resampled/-u280mVOhOQ.wav",
+        "sim": 0.80354154
+    },
+    {
+        "id": "48VL2d-B8qU",
+        "image": "/tsi/audiosig/audible/dcase/data/AudioSet_Frames_CAV/frame_5/48VL2d-B8qU.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe the sound that can be heard in this scene."
+            },
+            {
+                "from": "gpt",
+                "value": "Toilet flushing and woman speaking after"
+            }
+        ],
+        "audio": "/tsi/audiosig/audible/dcase/data/AudioSet_Resampled/48VL2d-B8qU.wav",
+        "sim": 0.7736048
+    },
+    {
+        "id": "3-HTO6MSe-U",
+        "image": "/tsi/audiosig/audible/dcase/data/AudioSet_Frames_CAV/frame_5/3-HTO6MSe-U.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe the sound that can be heard in this scene."
+            },
+            {
+                "from": "gpt",
+                "value": "A cat makes an anguished meow"
+            }
+        ],
+        "audio": "/tsi/audiosig/audible/dcase/data/AudioSet_Resampled/3-HTO6MSe-U.wav",
+        "sim": 0.819733
+    },
+    {
+        "id": "a6z9eUhrr2U",
+        "image": "/tsi/audiosig/audible/dcase/data/AudioSet_Frames_CAV/frame_5/a6z9eUhrr2U.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe the sound that can be heard in this scene."
+            },
+            {
+                "from": "gpt",
+                "value": "Toilet flushing"
+            }
+        ],
+        "audio": "/tsi/audiosig/audible/dcase/data/AudioSet_Resampled/a6z9eUhrr2U.wav",
+        "sim": 0.7812644
+    },
+    {
+        "id": "aZKv7cnuTv8",
+        "image": "/tsi/audiosig/audible/dcase/data/AudioSet_Frames_CAV/frame_5/aZKv7cnuTv8.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe the sound that can be heard in this scene."
+            },
+            {
+                "from": "gpt",
+                "value": "A woman speaks half way through continuous snoring"
+            }
+        ],
+        "audio": "/tsi/audiosig/audible/dcase/data/AudioSet_Resampled/aZKv7cnuTv8.wav",
+        "sim": 0.8808154
+    },
+    {
+        "id": "7Vfw29x42B4",
+        "image": "/tsi/audiosig/audible/dcase/data/AudioSet_Frames_CAV/frame_5/7Vfw29x42B4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe the sound that can be heard in this scene."
+            },
+            {
+                "from": "gpt",
+                "value": "Wind is blowing and waves are crashing on a shore"
+            }
+        ],
+        "audio": "/tsi/audiosig/audible/dcase/data/AudioSet_Resampled/7Vfw29x42B4.wav",
+        "sim": 0.76649666
+    }
+]
